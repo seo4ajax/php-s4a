@@ -2,7 +2,7 @@
 
 // Set your token
 $s4aToken = '0123456789abcdef0123456789abcdef';
-$s4aHost = 'https://api.seo4ajax.com/';
+$s4aHost = 'http://api.seo4ajax.com/';
 
 function x_forwarded_for() {
     $ip = '';
